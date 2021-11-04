@@ -1,4 +1,7 @@
 ### Olá, Eu sou Alexandro Lins!
+<div align="center">
+  <a href="https://github.com/alexandrolinss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrolinssi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrolinss&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-<div> 
-  <a href="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=https://www.facebook.com/messages/t/6310459729025633/
